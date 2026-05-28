@@ -1,5 +1,7 @@
 # 📊 Sales and Revenue Analysis using Power BI
 
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/1e0a0b9d-d893-4a6e-afd0-b0e508f4b500" />
+
 ## 📌 Project Overview
 
 This repository contains a **Sales Analytics Dashboard Project** developed using relational sales datasets and visualized in **Power BI**. The project transforms raw transactional data into actionable business insights through data modeling, KPI analysis, and interactive dashboard design.
@@ -331,8 +333,7 @@ Potential future enhancements include:
 
 # 📷 Dashboard Preview
 
-> *(Add Power BI dashboard screenshots here)*
-
+> <img width="1366" height="780" alt="Image" 	src="https://github.com/user-	attachments/assets/f999f0cb-4227-4135-b991-e409cf561214" />
 ---
 
 # 📁 Repository Structure
