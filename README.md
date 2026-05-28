@@ -333,7 +333,8 @@ Potential future enhancements include:
 
 # 📷 Dashboard Preview
 
-> <img width="1366" height="780" alt="Image" 	src="https://github.com/user-	attachments/assets/f999f0cb-4227-4135-b991-e409cf561214" />
+<img width="1366" height="780" alt="Image" src="https://github.com/user-attachments/assets/f999f0cb-4227-4135-b991-e409cf561214" />
+
 ---
 
 # 📁 Repository Structure
