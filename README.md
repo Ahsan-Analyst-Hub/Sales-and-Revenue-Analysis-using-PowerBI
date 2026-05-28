@@ -356,18 +356,6 @@ Sales-Analytics-PowerBI/
 
 ---
 
-# ▶️ How to Use
-
-1. Download or clone this repository
-2. Open Power BI Desktop
-3. Load the datasets into Power BI
-4. Create relationships between tables
-5. Add DAX measures
-6. Build visuals and dashboard layout
-7. Interact with filters and slicers
-
----
-
 # 📚 Learning Outcomes
 
 Through this project, the following skills were demonstrated:
